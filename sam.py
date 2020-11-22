@@ -1,1 +1,1 @@
-#  all factors.
+print("all factors")
